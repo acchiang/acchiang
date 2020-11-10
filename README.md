@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=acchiang.acchiang) since Oct 2020
 #### 👩🏻   Who I Am: 
 - *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia](https://www.ubc.ca/). Grad 2022. 
-- *Software Engineering Intern:* Seeking 2021 Internships. Previously [Facebook](https://www.facebook.com/), [One45](https://one45.com/). 
+- *Software Engineering Intern:* Previously [Facebook](https://www.facebook.com/), [One45](https://one45.com/). 
 - *Hackathon Organizer:* [UBC Local Hack Day](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Co-President at [nwPlus](https://www.nwplus.io/). 
 #### 🔭   Latest Project Contributions: 
 - A new website for the [Canadian Undergraduate Computer Science Conference](http://www.cucsc.ca/) 2021! 
