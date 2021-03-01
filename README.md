@@ -10,7 +10,8 @@
 #### 👩🏻   Who I Am: 
 - *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia](https://www.ubc.ca/). Grad 2022. 
 - *Software Engineering Intern:* Currently [Taplytics](https://taplytics.com/). Previously [Facebook](https://www.facebook.com/), [One45](https://one45.com/). 
-- *Hackathon Organizer:* [UBC Local Hack Day](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Co-President at [nwPlus](https://www.nwplus.io/). 
+- *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Co-President at [nwPlus](https://www.nwplus.io/). 
+- *Undergraduate Teaching Assistant:* TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming 
 #### 🔭   Latest Project Contributions: 
 - A new website for the [Canadian Undergraduate Computer Science Conference](http://www.cucsc.ca/) 2021! 
 - Hacktoberfest contributions to the nwPlus Hackathon [Live Site](https://github.com/nwplus/livesite)! 
