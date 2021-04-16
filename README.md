@@ -13,6 +13,7 @@
 - *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Co-President at [nwPlus](https://www.nwplus.io/). 
 - *Undergraduate Teaching Assistant:* TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming 
 #### 🔭   Latest Project Contributions: 
+- Featured in Ubyssey article, [Where We Draw the Line: Ethics in Tech](https://www.ubyssey.ca/science/where-we-draw-the-line/). 
 - A new website for the [Canadian Undergraduate Computer Science Conference](http://www.cucsc.ca/) 2021! 
 - Hacktoberfest contributions to the nwPlus Hackathon [Live Site](https://github.com/nwplus/livesite)! 
 - Ran a [Git 101 Workshop](https://lu.ma/nwplus-git) for beginners in tech. 
