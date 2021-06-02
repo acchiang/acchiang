@@ -11,7 +11,7 @@
 - *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). Grad 2022. 
 - *Software Engineering Intern:* [Microsoft Garage](https://www.microsoft.com/en-us/garage/) Intern Summer 2021, returning [Facebook](https://www.facebook.com/) Intern Fall 2021. Previously [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
 - *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Prev Co-President at [nwPlus](https://www.nwplus.io/). 
-- *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket] (https://racket-lang.org/). 
+- *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket](https://racket-lang.org/). 
 #### 🔭   Latest Project Contributions: 
 - Interviewed and featured in Ubyssey (Official UBC Student Newspaper) article, [Where We Draw the Line: Ethics in Tech](https://www.ubyssey.ca/science/where-we-draw-the-line/). 
 - Contributions to the nwPlus Hackathon [Portal](https://github.com/nwplus/livesite)! 
