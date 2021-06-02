@@ -9,12 +9,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=acchiang.acchiang) since Oct 2020
 #### 👩🏻   Who I Am: 
 - *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). Grad 2022. 
-- *Software Engineering Intern:* Incoming [Microsoft Garage](https://www.microsoft.com/en-us/garage/) Intern Summer 2021, returning [Facebook](https://www.facebook.com/) Intern Fall 2021. Previously [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
-- *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). 2020/2021 Co-President at [nwPlus](https://www.nwplus.io/). 
-- *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming.
+- *Software Engineering Intern:* Microsoft Garage](https://www.microsoft.com/en-us/garage/) Intern Summer 2021, returning [Facebook](https://www.facebook.com/) Intern Fall 2021. Previously [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
+- *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Prev Co-President at [nwPlus](https://www.nwplus.io/). 
+- *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket] (https://racket-lang.org/). 
 #### 🔭   Latest Project Contributions: 
 - Interviewed and featured in Ubyssey (Official UBC Student Newspaper) article, [Where We Draw the Line: Ethics in Tech](https://www.ubyssey.ca/science/where-we-draw-the-line/). 
-- Hacktoberfest contributions to the nwPlus Hackathon [Live Site](https://github.com/nwplus/livesite)! 
+- Contributions to the nwPlus Hackathon [Portal](https://github.com/nwplus/livesite)! 
 - Ran a [Git 101 Workshop](https://lu.ma/nwplus-git) for beginners in tech. 
 #### 🌱   Recent Fun Times: 
 - Previously worked with React, Cypress, Jest, CircleCI at Taplytics (YC 2016) as a Software Engineering Co-op (Spring 2021).
