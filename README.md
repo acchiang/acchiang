@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=acchiang.acchiang) since Oct 2020
 #### 👩🏻   Who I Am: 
 - *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). Grad 2022. 
-- *Software Engineering Intern:* [Microsoft Garage](https://www.microsoft.com/en-us/garage/) Intern Summer 2021, returning [Facebook](https://www.facebook.com/) Intern Fall 2021. Previously [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
+- *Software Engineering Intern:* Returning [Facebook](https://www.facebook.com/) Front End Engineer Intern Fall 2021. Previously [Microsoft (Garage)](https://www.microsoft.com/en-us/garage/), [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
 - *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Prev Co-President at [nwPlus](https://www.nwplus.io/). 
 - *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket](https://racket-lang.org/). 
 #### 🔭   Latest Project Contributions: 
@@ -17,6 +17,7 @@
 - Contributions to the nwPlus Hackathon [Portal](https://github.com/nwplus/livesite)! 
 - Ran a [Git 101 Workshop](https://lu.ma/nwplus-git) for beginners in tech. 
 #### 🌱   Recent Fun Times: 
+- Previously worked with React, TypeScript, C#, Microsoft Azure at Microsoft as a Software Engineer Intern (Summer 2021).
 - Previously worked with React, Cypress, Jest, CircleCI at Taplytics (YC 2016) as a Software Engineering Co-op (Spring 2021).
 - Built a new website for the [Canadian Undergraduate Computer Science Conference](http://www.cucsc.ca/) 2021! 
 - Previously worked with React, GraphQL, Hacklang, and JavaScript at Facebook MPK as a Front-End Engineering Intern (Summer 2020). 
