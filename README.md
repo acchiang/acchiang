@@ -8,8 +8,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=acchiang.acchiang) since Oct 2020
 #### 👩🏻   Who I Am: 
-- *Student:* B.Sc Candidate (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). Grad 2022. 
-- *Software Engineering Intern:* Previously [Meta (Facebook)](https://www.facebook.com/), [Microsoft (Garage)](https://www.microsoft.com/en-us/garage/), [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
-- *Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Prev Co-President at [nwPlus](https://www.nwplus.io/). 
-- *Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket](https://racket-lang.org/). 
+- *Software Engineer:* Microsoft. 
+- *Student:* B.Sc (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). 
+- *Previously, Software Engineering Intern:* Previously [Meta (Facebook)](https://www.facebook.com/), [Microsoft (Garage)](https://www.microsoft.com/en-us/garage/), [Taplytics](https://taplytics.com/), [One45](https://one45.com/). 
+- *Previously, Hackathon Organizer:* [HackCamp](http://lhd.nwplus.io/), [nwHacks](https://www.nwhacks.io/), [cmd-f](http://cmd-f.nwplus.io/). Prev Co-President at [nwPlus](https://www.nwplus.io/). 
+- *Previously, Undergraduate Teaching Assistant:* Prev Spring 2021 TA for UBC Computer Science department: CPSC 110 Computation, Programs, and Programming. Facilitated student success with [Racket](https://racket-lang.org/). 
 - Find me on [LinkedIn](https://www.linkedin.com/in/allison-chiang/), always happy to chat! 
