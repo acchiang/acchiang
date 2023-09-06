@@ -1,12 +1,4 @@
 ### Hey! I'm Allison! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> (she/her)
-<a href="https://www.linkedin.com/in/allison-chiang/">
-  <img align="left" alt="Allison's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/chiang_allison">
-  <img align="left" alt="Allison's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=acchiang.acchiang) since Oct 2020
 #### 👩🏻   Who I Am: 
 - *Software Engineer:* Microsoft. 
 - *Graduate:* B.Sc (Computer Science Major) at the [University of British Columbia (UBC)](https://www.ubc.ca/). 
